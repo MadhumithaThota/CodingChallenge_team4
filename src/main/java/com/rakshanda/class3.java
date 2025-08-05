@@ -1,4 +1,4 @@
-package com.p3;
+package com.rakshanda;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
