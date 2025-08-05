@@ -1,4 +1,4 @@
-package com.p1;
+package com.madhu;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
